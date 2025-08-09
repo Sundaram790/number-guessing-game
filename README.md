@@ -23,3 +23,6 @@ Inspired by CodeWithHarry’s tutorial.
 gcc number_guessing_game.c
 ./a.exe
 
+![First Output](screenshots/output1.png)
+![Second Output](screenshots/output2.png)
+Commit changes
