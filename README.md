@@ -1,4 +1,4 @@
-# Number Guessing Game 🎯
+## Number Guessing Game 😍
 
 A simple C programming game where you guess the number chosen by the computer.  
 I built this as part of my C programming learning journey.  
@@ -16,16 +16,7 @@ Inspired by CodeWithHarry’s tutorial.
 ![Game Screenshot 1](https://github.com/Sundaram790/number-guessing-game/blob/main/Screenshot1.png?raw=true)
 ![Game Screenshot 2](https://github.com/Sundaram790/number-guessing-game/blob/main/Screenshot2.png?raw=true)
 
----
-
-## 🛠 How to Compile and Run
-
-### **Method 1 – Default Output (a.exe / a.out)**  
-#### Windows (MinGW):
-```bash
-gcc number_guessing_game.c
-./a.exe
 
 ![First Output](screenshots/output1.png)
 ![Second Output](screenshots/output2.png)
-Commit changes
+
