@@ -14,9 +14,7 @@ Inspired by CodeWithHarry’s tutorial.
 5. The program also counts how many guesses you made.
 
 Game Screenshot -> (https://github.com/Sundaram790/number-guessing-game/blob/main/Screenshot1.png?raw=true)
-Game Screenshot -> ()
 
+Output Screenshot -> (https://github.com/Sundaram790/number-guessing-game/blob/main/Screenshot2.png?raw=true)
 
-First Output -> (screenshots/output1.png)
-Second Output -> (screenshots/output2.png)
 
