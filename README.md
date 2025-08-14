@@ -13,7 +13,7 @@ Inspired by CodeWithHarry’s tutorial.
 4. Keep guessing until you find the correct number!
 5. The program also counts how many guesses you made.
 
-Game Screenshot -> ()
+Game Screenshot -> (https://github.com/Sundaram790/number-guessing-game/blob/main/Screenshot1.png?raw=true)
 Game Screenshot -> ()
 
 
